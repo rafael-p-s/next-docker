@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <div className="h-screen flex flex-col justify-center items-center ">
+    <div className="h-screen flex flex-col justify-center items-center bg-red-500">
       <h1 className="font-extralight">Hello Docker</h1>
       <p>Teste do dia 17/12/2024</p>
       <h3>teste isabela</h3>

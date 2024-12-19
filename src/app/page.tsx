@@ -4,6 +4,7 @@ export default function Home() {
       <h1 className="font-extralight">Hello Docker</h1>
       <p>Teste do dia 17/12/2024</p>
       <h3 className="text-left w-full">teste isabela</h3>
+      <h3> Teste João  </h3>
       <p className="hover:text-white text-right w-full">teste modificando o arquivo</p>
     </div>
   );

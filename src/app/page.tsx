@@ -6,6 +6,7 @@ export default function Home() {
       <h3 className="text-left w-full">teste isabela</h3>
       <h3> Teste João  </h3>
       <p className="hover:text-white text-right w-full">teste modificando o arquivo</p>
+      <p className="text-right">A</p>
     </div>
   );
 }
